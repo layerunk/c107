@@ -1,0 +1,41 @@
+body
+{
+  color: white;
+  background: rgb(106, 230, 102);
+}
+span
+{
+  font-size: 30px;
+}
+#CAMERA , #RESULT
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#title{
+  font-family: 'Cookie', cursive;
+  font-size: 100px;
+}
+.emotion_name
+{
+  font-family: 'Nova Cut', cursive;
+  font-size: 40px;
+}
+.pro1
+{
+  font-size:48px;
+}
+
+#SNAP , #EMOTION{
+  font-family: 'Newsreader', serif;
+  color: black;
+  background-color: lightblue;
+}
+.bname{
+  font-family: 'Nova Cut', cursive;
+}
+.sec1{
+  font-size:30px;
+  font-family: 'Josefin Sans', sans-serif;
+}
